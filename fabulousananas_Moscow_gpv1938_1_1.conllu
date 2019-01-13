@@ -1,0 +1,166 @@
+#time = 2:30
+
+gpv@
+
+# sent_id = 3
+# text = ну / знаю что только / бабушка и дедушка в своё время они ээ / жили ээ / в Москве
+1	ну	ну	PART	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	что	что	SCONJ 	_	_	_	_	_	_
+5	только	только	PART	_	_	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+8	и	и	CCONJ	_	_	_	_	_	_
+9	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+10	в	в	ADP	_	_	_	_	_	_
+11	своё	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+12	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+13	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+14	ээ	ээ	INTJ	_	_	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+17	ээ	ээ	INTJ	_	_	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	в	в	ADP	_	_	_	_	_	_
+20	Москве	Москва	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+gpv@
+
+# sent_id = 5
+# text = бабушка закончила / гимназию / а дедушка закончил кадетский корпус / и ээ / по окончанию ээ / кадетского корпуса ээ / его направили / на работу / по военной части ээ / на ээ / Кавказ / в город Тбилис / раньше ээ / Тифлис он назывался / и там они ээ
+1	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	гимназию	гимназия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	а	а	CCONJ	_	_	_	_	_	_
+7	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	закончил	закончить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	кадетский	кадетский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+10	корпус	корпус	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	ээ	ээ	INTJ	_	_	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	по	по	ADP	_	_	_	_	_	_
+16	окончанию	окончание	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	_
+17	ээ	ээ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	кадетского	кадетский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+20	корпуса	корпус	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+21	ээ	ээ	INTJ	_	_	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+24	направили	направить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	на	на	ADP	_	_	_	_	_	_
+27	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	по	по	ADP	_	_	_	_	_	_
+30	военной	военный	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+31	части	часть	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+32	ээ	ээ	INTJ	_	_	_	_	_	_
+33	/	/	PUNCT	_	_	_	_	_	_
+34	на	на	ADP	_	_	_	_	_	_
+35	ээ	ээ	INTJ	_	_	_	_	_	_
+36	/	/	PUNCT	_	_	_	_	_	_
+37	Кавказ	Кавказ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+38	/	/	PUNCT	_	_	_	_	_	_
+39	в	в	ADP	_	_	_	_	_	_
+40	город	город	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+41	Тбилис	Тбилис	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+42	/	/	PUNCT	_	_	_	_	_	_
+43	раньше	ранее	ADV	_	Degree=Cmp	_	_	_	_
+44	ээ	ээ	INTJ	_	_	_	_	_	_
+45	/	/	PUNCT	_	_	_	_	_	_
+46	Тифлис	Тифлис	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+47	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+48	назывался	называться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+49	/	/	PUNCT	_	_	_	_	_	_
+50	и	и	CCONJ	_	_	_	_	_	_
+51	там	там	ADV	_	Degree=Pos	_	_	_	_
+52	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+53	ээ	ээ	INTJ	_	_	_	_	_	_	SpacesAfter=\n\n
+
+gpv@
+
+# sent_id = 7
+# text = прожили
+1	прожили прожить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+gpv@
+
+# sent_id = 9
+# text = я не знаю точно сколько времени / знаю что у них и дети были уже / всё ээ / там жили они очень хорошо / но так как ээ / они началась у них ээ / война вн...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	не	не	PART	_	_	_	_	_	_
+3	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	точно	точно	ADV	_	Degree=Pos	_	_	_	_
+5	сколько	сколько	NUM	_	_	_	_	_	_
+6	времени	время	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+9	что	что	SCONJ 	_	_	_	_	_	_
+10	у	у	ADP	_	_	_	_	_	_
+11	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+12	и	и	CCONJ	_	_	_	_	_	_
+13	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+14	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	всё	весь	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+18	ээ	ээ	INTJ	_	_	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	там	там	ADV	_	Degree=Pos	_	_	_	_
+21	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+22	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+23	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+24	хорошо	хороший	ADV	_	Degree=Pos	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	но	но	CCONJ	_	_	_	_	_	_
+27	так	так	SCONJ 	_	_	_	_	_	_
+28	как	как	SCONJ	_	_	_	_	_	_
+29	ээ	ээ	INTJ	_	_	_	_	_	_
+30	/	/	PUNCT	_	_	_	_	_	_
+31	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+32	началась	начаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+33	у	у	ADP	_	_	_	_	_	_
+34	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+35	ээ	ээ	INTJ	_	_	_	_	_	_
+36	/	/	PUNCT	_	_	_	_	_	_
+37	война	война	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+38	вн...	внутри	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+gpv@
+
+# sent_id = 11
+# text = внутри ээ / сре...
+1	внутри	внутри	ADV	_	Degree=Pos	_	_	_	_
+2	ээ	ээ	INTJ	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	сре...	среди	ADP	_	_	_	_	_	SpacesAfter=\n\n
+
+gpv@
+
+# sent_id = 13
+# text = среди своих / кавказцев / и они попросили русских оставить мм / Кавказ / и вернуться к себе /
+1	среди	среди	ADP	_	_	_	_	_	_
+2	своих	свой	DET	_	Case=Gen|Number=Plur	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	кавказцев	кавказец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	и	и	CCONJ	_	_	_	_	_	_
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+8	попросили	попросить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	русских	русский	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+10	оставить	оставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+11	мм	мм	INTJ	_	_	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	Кавказ	Кавказ	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	и	и	CCONJ	_	_	_	_	_	_
+16	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	_
+17	к	к	ADP	_	_	_	_	_	_
+18	себе	себя	PRON	_	Case=Dat	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_	SpacesAfter=\n\n
